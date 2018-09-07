@@ -1,0 +1,44 @@
+/* @license
+ * MyFonts Webfont Build ID 2465754, 2013-01-31T18:43:55-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Calibri Italic by Ascender Corp.
+ * URL: http://www.myfonts.com/fonts/ascender/calibri/italic/
+ * 
+ * Webfont: Calibri Bold Italic by Ascender Corp.
+ * URL: http://www.myfonts.com/fonts/ascender/calibri/bold-italic/
+ * 
+ * Webfont: Calibri Bold by Ascender Corp.
+ * URL: http://www.myfonts.com/fonts/ascender/calibri/bold/
+ * 
+ * Webfont: Calibri by Ascender Corp.
+ * URL: http://www.myfonts.com/fonts/ascender/calibri/regular/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2465754
+ * Webfonts copyright: &#x00A9; 2007 Microsoft Corporation. All Rights Reserved.
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("http://hello.myfonts.net/count/259fda");
+
+  
+@font-face {font-family: 'Calibri-Italic';src: url('webfonts/259FDA_0_0.eot');src: url('webfonts/259FDA_0_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/259FDA_0_0.html') format('woff'),url('webfonts/259FDA_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Calibri-BoldItalic';src: url('webfonts/259FDA_1_0.eot');src: url('webfonts/259FDA_1_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/259FDA_1_0.html') format('woff'),url('webfonts/259FDA_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Calibri-Bold';src: url('webfonts/259FDA_2_0.eot');src: url('webfonts/259FDA_2_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/259FDA_2_0.html') format('woff'),url('webfonts/259FDA_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Calibri';src: url('webfonts/259FDA_3_0.eot');src: url('webfonts/259FDA_3_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/259FDA_3_0.html') format('woff'),url('webfonts/259FDA_3_0.ttf') format('truetype');}
+ 

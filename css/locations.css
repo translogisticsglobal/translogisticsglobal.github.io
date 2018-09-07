@@ -1,0 +1,75 @@
+.content-columns.two-column-unbalanced {
+    background-image: url(../images/bg_column_lines_locations.gif);
+}
+
+.content-columns.two-column-unbalanced .left-channel {
+    width: 27.20694645441389%; /* 188 / 691 */
+    padding-right: 1.591895803183792%; /* 11 / 691 */
+    margin-right: 0.2894356005788712% /* 2 / 691 */
+}
+
+.content-columns.two-column-unbalanced .right-channel {
+    width: 70.91172214182344%; /* 480 / 691 */
+}
+
+.left-channel .location {
+    margin-bottom: 15px;
+}
+.left-channel h3 {
+    text-decoration: underline;
+}
+
+.left-channel strong {
+    font-weight: 500;
+}
+
+.left-channel ul {
+    list-style-type: none;
+    margin: 0 0 15px 0;
+    padding: 0;
+}
+
+.right-channel div.columns {
+    padding-left: 1.666666666666667%; /* 8 / 480 */
+}
+
+.right-channel h2 {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    margin: 0;
+    text-decoration: none;
+}
+
+.right-channel h2 span {
+    text-decoration: underline;
+    color: #016633;
+}
+
+.right-channel h2 a.small {
+    text-decoration: none;
+    text-transform: none;
+    font-weight: 100;
+    font-size: .7em;
+    color: #21bc1d;
+}
+
+.right-channel ul {
+    list-style: none;
+    margin: 0 0 15px 0;
+    padding: 0;
+}
+
+.right-channel ul li {
+    margin: 0;
+    padding: 0;
+}
+
+.right-channel ul li a {
+    color: #666;
+}
+
+.cta {
+    font-size: 1.3em;
+    color: #016633;
+    font-weight: bold;
+}

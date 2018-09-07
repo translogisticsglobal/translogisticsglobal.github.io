@@ -1,0 +1,118 @@
+     .TrackResults 
+     {
+         border-collapse:collapse;
+         width:100%;
+         font-size:small;
+         font-family: Arial-Narrow;
+     }
+    .TrackResults th
+    {
+        background-color: #FFFFFF;
+	vertical-align:top;
+        text-align:left;
+	/*background: transparent url(../images/sep.gif) right no-repeat;*/
+        padding: 8px 8px 8px 8px;
+        color:#666;
+    }
+	.TrackResults tr{
+		border-collapse: collapse;
+	}
+    .TrackResults td
+    {	
+	vertical-align:top;
+        background-color: #FFFFFF;
+        text-align:left;
+        border:1px solid #c3c3c3;
+        /*padding-left:4px;*/
+        color:#666;
+    }
+	.TrackResults td:nth-child(1)
+    	{
+		vertical-align:middle;
+        	text-align:center;
+    	}
+	.TrackResults td:nth-child(2)
+    	{
+		text-align:center;
+    	}
+	.TrackResults td:nth-child(9)
+	{
+		text-align:center;
+	}
+	.TrackResults td:nth-child(10)
+	{
+		text-align:center;
+	}
+	.HeaderRow {
+		border-top:solid 1px #c3c3c3;
+		border-left:solid 1px #c3c3c3; 
+		border-right:solid 1px #c3c3c3;
+		border-bottom:solid 1px #c3c3c3;
+	}
+	 .statusBox
+        {
+           /* position: absolute;*/
+            border: 1px solid #c3c3c3;
+            background-color: #FFFFFF;
+            width:inline-block;
+            z-index: 20;
+        }
+        .statusBox p
+        {
+            margin-left: 5px;
+        }
+        .notVisible
+        {
+            display: none;
+        }
+        .visible
+        {
+            display: block;
+        }
+        .greenLink
+        {
+            color:#00703C;
+        }
+        .greenLink:visited
+        {
+            color:#00703C;
+        }
+       .greenLink:hover
+        {
+            color:#00703C;
+        }
+		
+		
+				
+	.hblSearchTable{
+		font-size:x-large;
+		border-right: solid 1px;
+	}
+	.hblSearchTable td{
+		text-align:center;
+		padding-right:25px;
+		padding-left:12px;
+	}
+	.poSearchTable{
+		font-size:x-large;
+		border-right: solid 1px;
+	}
+	.poSearchTable td{
+		text-align:center;
+		padding-right:25px;
+		padding-left:25px;
+	}
+	
+	.contSearchTable{
+		font-size:x-large;
+	}
+	.contSearchTable td{
+		text-align:center;
+		padding-left:25px;
+	}
+	
+	.SearchTables{
+		width: inherit;
+		padding-top:10px;
+		padding-bottom:25px;
+	}
